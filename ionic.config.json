@@ -1,0 +1,7 @@
+{
+  "name": "reserApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
